@@ -1,6 +1,6 @@
 /**
 * @name F1 Racing Keybind
-* @description Keybind for F1 Racing
+* @description Keybind for F1 Racing. Change you keys for braking/accel by editing the file and changing the BRAKE_KEY OR ACCEL_KEY variables.
 * @downloadUrl https://raw.githubusercontent.com/getrithekd/F1-Racing-Mod/refs/heads/main/mod.js
 * @author Getrithekd
 */
