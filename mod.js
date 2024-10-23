@@ -1,7 +1,7 @@
 /**
 * @name F1 Racing Keybind
 * @description Keybind for F1 Racing
-* @downloadUrl raw.githubusercontent.com/getrithekd/F1-Racing-Mod/mod.js
+* @downloadUrl https://raw.githubusercontent.com/getrithekd/F1-Racing-Mod/refs/heads/main/mod.js
 * @author Getrithekd
 */
 
